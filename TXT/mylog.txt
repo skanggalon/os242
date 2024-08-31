@@ -5,5 +5,6 @@ ZCZC W00 30 L00 General, etc.
 ZCZC W00 25 L01 SCELE/Discord related
 ZCZC W00 180 L02 CLASSROOM/ZOOM meetings related
 ZCZC W00 30 L03 GitHub and git related, including commit, push, pull
+ZCZC W00 50 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W00 15 L05 Quiz related including studying
 ZCZC W00 25 L09 Assignment in General
