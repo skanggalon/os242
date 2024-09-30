@@ -19,3 +19,7 @@ permalink: LINKS/
   TEDTalks with Linus Torvalds. To get to know more about Linus Torvalds and his creations.
 * [Beginner's Guide To The Linux Terminal](https://www.youtube.com/watch?v=s3ii48qYBxA){:target="_blank"} ---
   Intro to learn Linux Terminal. A good video if u want to learn basic command, etc. in Linux Terminal.
+* [Linux - Tarballs, Archive and Compress Folders (tar)](https://www.youtube.com/watch?v=l0yqs8t6ywo&t=302s){:target="_blank"} ---
+  Learn about Tarballs. A short video that explains how to tar, compress, and to unarchive.
+* [Compression: Crash Course Computer Science #21](https://www.youtube.com/watch?v=OtDxDvCpPL4){:target="_blank"} ---
+  Explains how compression works. This video is great because it has animations so it's easy to understand.
