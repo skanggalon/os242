@@ -23,3 +23,7 @@ permalink: LINKS/
   Learn about Tarballs. A short video that explains how to tar, compress, and to unarchive.
 * [Compression: Crash Course Computer Science #21](https://www.youtube.com/watch?v=OtDxDvCpPL4){:target="_blank"} ---
   Explains how compression works. This video is great because it has animations so it's easy to understand.
+* [Memory & Storage: Crash Course Computer Science #19](https://www.youtube.com/watch?v=TQCr9RV7twk){:target="_blank"} ---
+  Great video explaining how memory and storage work. It's great because it has animations to make it easier to visualize.
+* [Asymmetric Encryption - Simply explained](https://www.youtube.com/watch?v=AQDCe585Lnc){:target="_blank"} ---
+  4 minute video about encryption. The explanation is simple and there is animation in it so it is easy to get an idea of the concept. 
