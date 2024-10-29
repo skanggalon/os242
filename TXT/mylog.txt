@@ -1,6 +1,11 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
+ZCZC W06 100 L00 General, etc.
+ZCZC W06 120 L01 SCELE/Discord Related
+ZCZC W06 120 L03 GitHub and git related, including commit, push, pull
+ZCZC W06 90 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W06 360 L09 Assignment in General
 ZCZC W05 90 L00 General, etc.
 ZCZC W05 180 L01 SCELE/Discord Related
 ZCZC W05 180 L02 CLASSROOM/ZOOM meetings related

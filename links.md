@@ -26,4 +26,8 @@ permalink: LINKS/
 * [Memory & Storage: Crash Course Computer Science #19](https://www.youtube.com/watch?v=TQCr9RV7twk){:target="_blank"} ---
   Great video explaining how memory and storage work. It's great because it has animations to make it easier to visualize.
 * [Asymmetric Encryption - Simply explained](https://www.youtube.com/watch?v=AQDCe585Lnc){:target="_blank"} ---
-  4 minute video about encryption. The explanation is simple and there is animation in it so it is easy to get an idea of the concept. 
+  4 minute video about encryption. The explanation is simple and there is animation in it so it is easy to get an idea of the concept.
+* [C vs C++ vs C#](https://www.youtube.com/watch?v=sNMtjs_wQiE){:target="_blank"} ---
+  If you are curious about the differences between c languages, this video is great at explaining them in a nutshell. The video is only 2 minutes long.
+* [Become a bash scripting pro - full course](https://www.youtube.com/watch?v=4ygaA_y1wvQ){:target="_blank"} ---
+  A great video supplement to learn more about bash scripting. The material is explained in a fairly structured way.
