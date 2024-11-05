@@ -31,3 +31,7 @@ permalink: LINKS/
   If you are curious about the differences between c languages, this video is great at explaining them in a nutshell. The video is only 2 minutes long.
 * [Become a bash scripting pro - full course](https://www.youtube.com/watch?v=4ygaA_y1wvQ){:target="_blank"} ---
   A great video supplement to learn more about bash scripting. The material is explained in a fairly structured way.
+* [SSH Keys](https://www.youtube.com/watch?v=dPAw4opzN9g){:target="_blank"} ---
+  Learn more about SSH keys. And this video will teach how to create and use ssh keys, especially if you are interested in Amazon Web Services keys to access its servers.
+* [Yakin gak mau NGERTI SSH tapi pengen jadi programmer?](https://www.youtube.com/watch?v=HlSktNwxCW8){:target="_blank"} ---
+  explanation of the song about ssh. and the advantage of this video is that the person explaining it uses Indonesian
