@@ -35,3 +35,6 @@ permalink: LINKS/
   Learn more about SSH keys. And this video will teach how to create and use ssh keys, especially if you are interested in Amazon Web Services keys to access its servers.
 * [Yakin gak mau NGERTI SSH tapi pengen jadi programmer?](https://www.youtube.com/watch?v=HlSktNwxCW8){:target="_blank"} ---
   explanation of the song about ssh. and the advantage of this video is that the person explaining it uses Indonesian
+* [Kernotex - LFS 12.2 - How to build Linux From Scratch 12.2](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3){:target="_blank"} --- The video is very helpful in explaining the steps of working on LFS. As a note, this is a playlist for LFS 12.2.
+* [Linux From Scratch 11.0 (LFS) Indonesia](https://www.youtube.com/playlist?list=PL0gOYtekW0nvpS6LdyG9IgJm_2r5ldWbP){:target="_blank"} ---
+  Video playlist about LFS too (up to chapter 7) but using Indonesian. However, it should be noted in the video that the LFS used is LFS 11.0, so maybe just take the main points.
